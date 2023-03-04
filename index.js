@@ -11,7 +11,10 @@ module.exports = {
     holaAlCursoNPMPrueba: function(){
         console.log('Hola al curso NPM Prueba 1!!!');
     },
-    holaAlCursoNPMPrueba: function(){
+    holaAlCursoNPMPrueba2: function(){
         console.log('Hola al curso NPM Prueba 2!!!');
+    },
+    holaAlCursoNPMPrueba3: function(){
+        console.log('Hola al curso NPM Prueba 3!!!');
     }
 }
